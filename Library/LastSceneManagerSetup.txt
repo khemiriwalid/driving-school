@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/scenes/client/menu_client.unity
+  isLoaded: 1
+  isActive: 1
